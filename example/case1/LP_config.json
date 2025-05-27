@@ -1,0 +1,7 @@
+{
+    "solver": "cbc",
+    "license": "",
+    "path": "",
+    "name": "test",
+    "save_prefix": "/data/case1"
+}

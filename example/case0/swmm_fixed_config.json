@@ -1,0 +1,20 @@
+{
+    "parameter": {
+        "inlet_spacing": 100,
+        "DEM_path": "/data/case0/_sw_demZero.tif"
+    },
+    "geometry_settings": {
+        "sewer": "/data/case0/_sw_line.gpkg",
+        "outfall": "/data/case0/_sw_outfall.gpkg",
+        "fixed_direction": "/data/case0/_sw_fixedDir.gpkg"
+    },
+    "simulation_settings": {
+        "input_file": "/data/case0/_test.inp",
+        "start_date": "07/11/2022",
+        "start_time": "00:00:00",
+        "end_date": "07/11/2022",
+        "end_time": "16:00:01",
+        "report_step": "0:05:00",
+        "EPSG_code": 32648
+    }
+}

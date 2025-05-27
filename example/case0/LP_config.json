@@ -1,0 +1,8 @@
+{
+    "solver": "cbc",
+    "license": "",
+    "path": "",
+    "name": "test",
+    "outfall_relaxed": "True",
+    "save_prefix": "/data/case0"
+}
